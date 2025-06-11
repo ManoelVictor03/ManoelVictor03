@@ -32,7 +32,7 @@
  
 ### Tools:
 <br>
-**Visual Studio Code** | **GitHub** | **Git** | **Pacote Office** | **SQL- Serve** | **SQL - Postgres** | **SQL - FireBird** | **Windows** | **ERP** | **MarkDown**
+Visual Studio Code | GitHub | Git | Pacote Office | SQL- Serve | SQL - Postgres | SQL - FireBird | Windows | ERP | MarkDown | XML | Gemini AI
 
  
 
