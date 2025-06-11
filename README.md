@@ -16,6 +16,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/manoel_viiana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/manoel-victor-silva-viana-168738215/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:
