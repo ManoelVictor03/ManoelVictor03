@@ -3,9 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Manoel+Victor+Silva+Viana;I+study+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelVictor03&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ManoelVictor03&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
